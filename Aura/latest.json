@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-alpha.5",
+  "version": "0.1.1-alpha.6",
   "notes": "Alpha update with updater publishing fixes, Microsoft OAuth recovery hardening, offline queue reliability improvements, and UI polish.",
-  "pub_date": "2026-04-18T15:36:29Z",
+  "pub_date": "2026-04-18T19:09:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUNmWmFvRTFPQUtFT3R2RitWT1BNMjZxRXM2MFpnNzNoMmp2ZXV6NG95TlBpUWpLY2hrQzBqVlRndFREdm02MnArZkNhUzFCVHV3emdJU0QyWmtzdzlsblJ5STdjdXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTI2NTY2CWZpbGU6QXVyYV8wLjEuMS1hbHBoYS41X3g2NC1zZXR1cC5leGUKNjRkcE8wZGRNdW1QdkxNenhGeTZqUUdDeEdqdE1RZE8rMUNwK1lzaUFobEszamlaci9yd0Z2cXh5anVMUi9iQmRlNUNIOFplaEN4RmcvZHZTQmU1QVE9PQo=",
-      "url": "https://mhennick50.github.io/Aura/Aura_0.1.1-alpha.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQUNmWmFvRTFPQUM3TmEvOUdhMnJVZTFTWFhGckJlVFN2WlkrUGRXSnBnZGhJRGpaUm9CNFhCcE1DbWNaVnVJbWFZeWFUaDBhRXB0Y3RUWXVieStCWUxsdDJsbFFLclFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTM5Mzc1CWZpbGU6QXVyYV8wLjEuMS1hbHBoYS42X3g2NC1zZXR1cC5leGUKbXpXNis4dkRQRVVKcnVoMkRUZ05qNUIwbVUrckM2cjhUc3p1VXlhaUZtd2ZCSDZ5NzN4cTZ3YXZMaWtybU56WXAvcFhBWkJ2ZWRlNW5nM0lzR2xhQXc9PQo=",
+      "url": "https://mhennick50.github.io/Aura/Aura_0.1.1-alpha.6_x64-setup.exe"
     }
   }
 }
